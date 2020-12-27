@@ -2,10 +2,10 @@
 # ≪━─━─{ 🦉 | The God's | 🦉 }─━─━≫
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ## 🤔 | What are we?
-### ► A group of young people studying programming and hacking
+### ► A group of young people studying programming and hacking.
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ## 🧑‍💻 | Who we are?
-### ► Marchosias | [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/march0s1as/)](https://github.com/march0s1as/)
+### ► March0s1as | [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/march0s1as/)](https://github.com/march0s1as/)
 ### ► Dantalion | [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Slayyer-Dev)](https://github.com/Slayyer-Dev)
 ### ► Zagan | [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/zy0x157)](https://github.com/zy0x157)
 ### ► Glasya | [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Gl4sya/)](https://github.com/Gl4sya/)
