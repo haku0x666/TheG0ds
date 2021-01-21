@@ -18,11 +18,12 @@
   <img align="right" src="https://static.tumblr.com/0699f4abac93fe1171519d0f61b60a0e/wmbxedu/JE3n28fyi/tumblr_static_tumblr_static_owl1.gif" width="70px"> 
 </p>
 
-<h2 align="center">≪━─━─{ 🦉 | The God's | 🦉 }─━─━≫</h2>
+<h2 align="center">≪━─━─{ 🦉 | The God's | 🦉 }─━─━≫ </h2>
 
 <img align='right' src='https://media.giphy.com/media/lnyTxlW69yhGNaHcwr/giphy.gif' width='270"'>
 
 # About us:
+[![Linux](https://img.shields.io/badge/-linux-%231572B6?style=flat-square&logo=linux)](https://www.kernel.org/doc/html/latest/)
 - <img src="http://cdn130.picsart.com/258778191001212.png" width="30" height="25">&nbsp;&nbsp;We are a group of young people studying programming and hacking.
 - <img src="https://media.giphy.com/media/CN8RJQ9PWBk5y/giphy.gif" width="20" height="25">&nbsp;&nbsp;Ours projects is avaliable [here](https://github.com/TheG0ds/)
 - <img src="http://static.tumblr.com/df9d542bafc79acb5da56244ff58e4ea/dyb7ptk/plloy3ebg/tumblr_static_2eb7rsfw5728kc80w08og080.gif" width="20" height="20">&nbsp;&nbsp;Hacking, Linux and Programming
@@ -58,4 +59,3 @@
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/TheG0ds">
   <img src="https://avatars0.githubusercontent.com/u/57802372?s=400&v=4" width="30px" alt="Github"></a>
 </p> 
-
