@@ -36,6 +36,7 @@
 - R3tr0 | [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/R3tr074/)](https://github.com/R3tr074/)
 - Vtrgzll | [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/victorlpgazolli/)](https://github.com/victorlpgazolli/)&nbsp; &nbsp;
 
+## Status:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dantalion-dev&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="TheG0ds"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheG0ds&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
