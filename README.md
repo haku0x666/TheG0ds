@@ -13,10 +13,10 @@
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ![Alt Text](https://media.discordapp.net/attachments/381930632730640385/792512773057282088/VAPORGRAM1601110817029.gif)
 -->
-
+https://31.media.tumblr.com/b3ec275fe8bf943ff5fb5a7db72e2f39/tumblr_mrl9eft3uT1sxu8eno1_500.gif
 <p align="left">
-  <img src="http://24.media.tumblr.com/a8d91d9d6f197e126351464305f75dd7/tumblr_msitq5qMwW1sg2d49o1_1280.gif" width="50px"> 
-  <img align="right" src="https://data.whicdn.com/images/232263957/original.gif" width="50px"> 
+  <img src="https://31.media.tumblr.com/b3ec275fe8bf943ff5fb5a7db72e2f39/tumblr_mrl9eft3uT1sxu8eno1_500.gif" width="50px"> 
+  <img align="right" src="https://static.tumblr.com/0699f4abac93fe1171519d0f61b60a0e/wmbxedu/JE3n28fyi/tumblr_static_tumblr_static_owl1.gif" width="50px"> 
 </p>
 
 <h2 align="center">≪━─━─{ 🦉 | The God's | 🦉 }─━─━≫</h2>
@@ -38,10 +38,10 @@
 - Vtrgzll | [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/victorlpgazolli/)](https://github.com/victorlpgazolli/)
 &nbsp; &nbsp;
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dantalion-dev&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="</Dantalion>"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dantalion-dev&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="TheG0ds"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantalion-dev&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheG0ds&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
+&nbsp; &nbsp;
 <p align="center">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 </p>
