@@ -21,7 +21,7 @@
 
 <h2 align="center">≪━─━─{ 🦉 | The God's | 🦉 }─━─━≫</h2>
 
-<img align='right' src='https://data.whicdn.com/images/286687755/original.gif' width='200"'>
+<img align='right' src='https://media.giphy.com/media/lnyTxlW69yhGNaHcwr/giphy.gif' width='200"'>
 
 # About us:
 - <img src="http://bestanimations.com/Animals/Mammals/Cats/cats/cute-kitty-animated-gif-51.gif" width="20" height="25">&nbsp;&nbsp;We are a group of young people studying programming and hacking.
