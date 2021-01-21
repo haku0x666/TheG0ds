@@ -13,15 +13,14 @@
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ![Alt Text](https://media.discordapp.net/attachments/381930632730640385/792512773057282088/VAPORGRAM1601110817029.gif)
 -->
-https://31.media.tumblr.com/b3ec275fe8bf943ff5fb5a7db72e2f39/tumblr_mrl9eft3uT1sxu8eno1_500.gif
 <p align="left">
   <img src="https://31.media.tumblr.com/b3ec275fe8bf943ff5fb5a7db72e2f39/tumblr_mrl9eft3uT1sxu8eno1_500.gif" width="50px"> 
-  <img align="right" src="https://static.tumblr.com/0699f4abac93fe1171519d0f61b60a0e/wmbxedu/JE3n28fyi/tumblr_static_tumblr_static_owl1.gif" width="50px"> 
+  <img align="right" src="https://static.tumblr.com/0699f4abac93fe1171519d0f61b60a0e/wmbxedu/JE3n28fyi/tumblr_static_tumblr_static_owl1.gif" width="70px"> 
 </p>
 
 <h2 align="center">≪━─━─{ 🦉 | The God's | 🦉 }─━─━≫</h2>
 
-<img align='right' src='https://media.giphy.com/media/lnyTxlW69yhGNaHcwr/giphy.gif' width='200"'>
+<img align='right' src='https://media.giphy.com/media/lnyTxlW69yhGNaHcwr/giphy.gif' width='270"'>
 
 # About us:
 - <img src="http://bestanimations.com/Animals/Mammals/Cats/cats/cute-kitty-animated-gif-51.gif" width="20" height="25">&nbsp;&nbsp;We are a group of young people studying programming and hacking.
@@ -43,20 +42,20 @@ https://31.media.tumblr.com/b3ec275fe8bf943ff5fb5a7db72e2f39/tumblr_mrl9eft3uT1s
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheG0ds&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
 &nbsp; &nbsp;
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
+  <img src="https://bestanimations.com/Animals/Mammals/Cats/cats/cool-cat-animated-gif-17.gif" width="200"/>
 </p>
 
 <p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/dantaliondev">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
   &nbsp; &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UCret_G0WHRBQYG5MesldNjw">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a>
   &nbsp; &nbsp;
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://discord.gg/v5d3PZ9">
   <img src="https://orig00.deviantart.net/da8e/f/2017/113/2/0/discord_pixel_icon_by_grizz5-db6w18c.png" width="25px" alt="Discord"></a>
   &nbsp; &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/Dantalion-dev">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/TheG0ds">
   <img src="https://avatars0.githubusercontent.com/u/57802372?s=400&v=4" width="30px" alt="Github"></a>
 </p> 
 
