@@ -23,7 +23,7 @@
 <img align='right' src='https://media.giphy.com/media/lnyTxlW69yhGNaHcwr/giphy.gif' width='270"'>
 
 # About us:
-- <img src="https://image.tutpad.com/tut/0/53/11_MONEDA.gif" width="20" height="25">&nbsp;&nbsp;We are a group of young people studying programming and hacking.
+- <img src="https://i.gifer.com/XOsX.gif" width="20" height="25">&nbsp;&nbsp;We are a group of young people studying programming and hacking.
 - <img src="https://media.giphy.com/media/CN8RJQ9PWBk5y/giphy.gif" width="20" height="25">&nbsp;&nbsp;Ours projects is avaliable [here](https://github.com/TheG0ds/)
 - <img src="http://static.tumblr.com/df9d542bafc79acb5da56244ff58e4ea/dyb7ptk/plloy3ebg/tumblr_static_2eb7rsfw5728kc80w08og080.gif" width="20" height="20">&nbsp;&nbsp;Hacking, Linux and Programming
 - <img src="https://omgfoss.com/wp-content/uploads/2019/02/linux.gif" width="20" height="20">&nbsp;&nbsp;root@kali~# netcat -lvp 4444
