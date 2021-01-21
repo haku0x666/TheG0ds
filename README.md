@@ -23,19 +23,18 @@
 <img align='right' src='https://media.giphy.com/media/lnyTxlW69yhGNaHcwr/giphy.gif' width='270"'>
 
 # About us:
-- <img src="http://bestanimations.com/Animals/Mammals/Cats/cats/cute-kitty-animated-gif-51.gif" width="20" height="25">&nbsp;&nbsp;We are a group of young people studying programming and hacking.
+- <img src="https://image.tutpad.com/tut/0/53/11_MONEDA.gif" width="20" height="25">&nbsp;&nbsp;We are a group of young people studying programming and hacking.
 - <img src="https://media.giphy.com/media/CN8RJQ9PWBk5y/giphy.gif" width="20" height="25">&nbsp;&nbsp;Ours projects is avaliable [here](https://github.com/TheG0ds/)
 - <img src="http://static.tumblr.com/df9d542bafc79acb5da56244ff58e4ea/dyb7ptk/plloy3ebg/tumblr_static_2eb7rsfw5728kc80w08og080.gif" width="20" height="20">&nbsp;&nbsp;Hacking, Linux and Programming
 - <img src="https://omgfoss.com/wp-content/uploads/2019/02/linux.gif" width="20" height="20">&nbsp;&nbsp;root@kali~# netcat -lvp 4444
 
-# Our profiles
+# Our profiles:
 - March0s1as | [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/march0s1as/)](https://github.com/march0s1as/)
 - Dantalion | [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Dantalion-Dev)](https://github.com/Slayyer-Dev)
 - Zagan | [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/zy0x157)](https://github.com/zy0x157)
 - Glasya | [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Gl4sya/)](https://github.com/Gl4sya/)
 - R3tr0 | [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/R3tr074/)](https://github.com/R3tr074/)
-- Vtrgzll | [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/victorlpgazolli/)](https://github.com/victorlpgazolli/)
-&nbsp; &nbsp;
+- Vtrgzll | [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/victorlpgazolli/)](https://github.com/victorlpgazolli/)&nbsp; &nbsp;
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dantalion-dev&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="TheG0ds"/>
 
