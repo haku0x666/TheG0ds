@@ -32,7 +32,7 @@
 # Our profiles:
 - March0s1as | [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/march0s1as/)](https://github.com/march0s1as/)
 - Dantalion | [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Dantalion-Dev)](https://github.com/Dantalion-Dev)
-- Haku | [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/haku0x666)](https://github.com/ko0tu)
+- Haku | [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/haku0x666)](https://github.com/haku0x666)
 - Glasya | [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Gl4sya/)](https://github.com/Gl4sya/)
 - R3tr0 | [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/R3tr074/)](https://github.com/R3tr074/)
 - Vtrgzll | [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/victorlpgazolli/)](https://github.com/victorlpgazolli/)&nbsp; &nbsp;
